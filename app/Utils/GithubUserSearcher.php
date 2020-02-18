@@ -39,7 +39,5 @@ class GithubUserSearcher
                 ];
             }
         }
-
-
     }
 }
