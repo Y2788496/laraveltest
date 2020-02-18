@@ -64,7 +64,7 @@ class UsersController extends Controller
             return response()->json([
                 'errors' => [
                     'login' => [
-                        $result['data']
+                        $result['data'],
                     ],
                 ],
             ], 422);
