@@ -11,3 +11,5 @@
 * `npm i`
 * `npm run prod`
 * `php artisan serve`
+
+Enter in browser: http://127.0.0.1:8000
